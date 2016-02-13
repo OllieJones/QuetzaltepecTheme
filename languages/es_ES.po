@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quetzaltepec\n"
+"POT-Creation-Date: 2014-02-12 16:33-0500\n"
+"PO-Revision-Date: 2014-02-14 15:09-0500\n"
+"Last-Translator: Ollie Jones <oj@plumislandmedia.net>\n"
+"Language-Team: \n"
+"Language: es_SV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front-page.php:23
+msgid ""
+"This kite-maker receives training through a community business cooperative "
+"in La Anemona 6 supported by Foundation Cristosal. Photo by Ryan Hutton ©"
+msgstr ""
+"Este fabricante de Cometas (Piscuchas) recibe formación a través de una "
+"cooperativa de la comunidad de negocios en La Anemona 6 con el apoyo de la "
+"Fundación Cristosal. Foto por Ryan Hutton ©"
+
+#: front-page.php:37 index.php:49 page.php:43 single.php:50
+msgid "Not Found"
+msgstr "No Se Encontró."
+
+#: front-page.php:38 index.php:50 page.php:44 single.php:51
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Lo siento, pero usted está buscando algo que no está aquí."
+
+#: front-page.php:41
+msgid "Our Partner Communities:"
+msgstr "Nuestras Comunidades Socias:"
+
+#: front-page.php:45
+msgid ""
+"El Carmen was founded in 1992 by ex-combatants and displaced people who were "
+"given land at the signing of the U.N. Peace Accords that ended El Salvador’s "
+"12-year civil war. Twenty-six families live in the isolated community "
+"located in the foothills of the Usulutan coffee-producing highlands..."
+msgstr ""
+"El Carmen fue fundada en 1992, por los ex combatientes y las personas "
+"desplazadas que se les dio la tierra a la firma de los Acuerdos de Paz de la "
+"ONU, que pusieron fin a la guerra civil de 12 años en El Salvador. "
+"Veintiséis familias viven en la comunidad aisladas, situada en las "
+"estribaciones de la sierra productores de café Usulután."
+
+#: front-page.php:50
+msgid ""
+"Some 2 million Salvadorans – one-third of the population – live in "
+"substandard housing, many on land that does not belong to them. In La "
+"Anemona, Foundation Cristosal is partnering with community leaders to "
+"legalize the land on which 189 families have built homes and to create a "
+"more stable economic..."
+msgstr ""
+"Cerca de 2 millones de salvadoreños  (un tercio de la población) viven en "
+"viviendas precarias, muchos en  tierras que no les pertenecen. La Fundación "
+"Cristosal se ha asociado con líderes de la comunidad Anemona para legalizar "
+"los terrenos en los que 189 familias han construido casas y así crear una "
+"economía más estable."
+
+#: front-page.php:55
+msgid ""
+"Los Calix is home to one of the Anglican-Episcopal Church of El Salvador’s "
+"most active congregations, Cristo Rey. The church first started a mission in "
+"the community in 2005 after floodwaters from Hurricane Stan devastated the "
+"Lempa River delta, where Los Calix..."
+msgstr ""
+"Los Cálix es el hogar de una de las Iglesia Anglicanas de las congregaciones "
+"más activas de El Salvador que es  Cristo Rey. La Iglesia comenzó una misión "
+"en la comunidad en 2005, después de las inundaciones del Huracán Stan que "
+"devastó el delta del río Lempa, en  Los Cálix."
+
+#: functions.php:32
+msgid "Header Menu"
+msgstr "Menú Header"
+
+#: functions.php:33
+msgid "Left Menu"
+msgstr "Left Menu"
+
+#: functions.php:34
+msgid "Right Menu"
+msgstr "Right Menu"
+
+#: functions.php:35
+msgid "Footer Menu"
+msgstr "Menú Pie de Página"
+
+#: functions.php:40
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions.php:42
+msgid "Below the left navigation menu"
+msgstr "Debajo del menú izquierdo"
+
+#: functions.php:51
+msgid "Right Top"
+msgstr "Derecha Arriba"
+
+#: functions.php:53
+msgid "The right top sidebar"
+msgstr "El sidebar la parte superior derecha"
+
+#: functions.php:62
+msgid "Right"
+msgstr "Derecha"
+
+#: functions.php:64
+msgid "The right sidebar"
+msgstr "El sidebar derecha"
+
+#: functions.php:73
+msgid "Below"
+msgstr "Abajo"
+
+#: functions.php:75
+msgid "Below the page text"
+msgstr "Debajo el texto de la página"
+
+#: header.php:52
+msgid "Rights. Justice. Community. El Salvador."
+msgstr "Derechos. Justicia. Comunidad. El Salvador."
+
+#: header.php:61 header.php:69
+msgid "Foundation Cristosal Logo"
+msgstr "Logotipo de la Fundación Cristosal"
+
+#: index.php:43
+msgid "Edit this item"
+msgstr "Edite este artículo"
+
+#: index.php:44
+msgid "Respond to this item"
+msgstr "Responder a este artículo"
+
+#: index.php:44
+msgid "Read the response to this item"
+msgstr "Leer la respuesta a este artículo"
+
+#: index.php:44
+msgid "Read % responses to this item"
+msgstr "Leer % respuestas a este artículo"
+
+#: page.php:39 single.php:39
+msgid "Edit"
+msgstr "Editar"
+
+#: single.php:41
+msgid "Post navigation"
+msgstr "Navegador de artículos"
+
+#: single.php:42
+msgctxt "Previous item"
+msgid "&laquo;"
+msgstr "&laquo; [ Artículo Anterior ]"
+
+#: single.php:43
+msgctxt "Next item"
+msgid "&raquo;"
+msgstr "&raquo; [ Siguente Artículo  ]"
